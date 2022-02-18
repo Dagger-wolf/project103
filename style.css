@@ -1,0 +1,19 @@
+body{
+
+    background: linear-gradient(to bottom right, green 0%, red 100%);
+    color: yellow; 
+
+}
+
+#title{
+
+    font-size: 50px;
+    width: 80%;
+
+}
+
+#family{
+
+    font-size: 20px;
+
+}
